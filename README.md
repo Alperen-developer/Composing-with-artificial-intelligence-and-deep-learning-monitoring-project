@@ -72,9 +72,9 @@ Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 
 ## 👨‍💻 Katkıda Bulunanlar
 
-- Alperen ERKAN    (takım lideri)
+- Alperen ERKAN    (Proje lideri)
 - Filiz Sönmez     (proje yürütücüsü)
-- Eymen GÜNEY      (IT/SSH izleme sorumlusu)
+- Eymen GÜNEY      (Sunucu ortam izleme sorumlusu)
 - Yağız Efe KORUCU (Yazılım test sorumlusu)
 - Kadir OTAY       (Teknik kurulum sorumlusu)
 
