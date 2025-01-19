@@ -86,10 +86,9 @@ Bu proje, açık kaynak lisansı altında yayımlanmıştır. Daha fazla bilgi i
 
 ---
 
-## ⚠️ UYARI ⚠️
+## ❗ UYARI 
 
-Yapay zeka modelimizi lütfen etik ve legal amaçlara hizmet edicek şekilde kullanın programlayın !
-Yapay zeka modeli sunucularda barındığından kaynaklı sizin bilgisayarınızda çalıştığı andan kapandığı ana kadar tüm işlemleri kayıt eder !
+Yapay zeka modeli her türlü işlemi yapabilme yetisine sahiptir, lütfen modeli etik ve legal amaçlara hizmet etme amacıyla kullanın 🙏
 
 ---
 
