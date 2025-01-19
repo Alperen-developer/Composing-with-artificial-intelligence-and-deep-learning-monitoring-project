@@ -59,8 +59,8 @@ Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 
 1. Projeyi yerel bilgisayarınıza klonlayın:
    ```bash
-   git clone https://github.com/Alperen-developer/yapay-zeka-ile-beste-ve-derin-renimin-izlenemsi-projesi.git
-   cd yapay-zeka-ile-beste-ve-derin-renimin-izlenemsi-projesi
+   git clone https://github.com/Alperen-developer/Composing-with-artificial-intelligence-and-deep-learning-monitoring-project.git
+   cd Composing-with-artificial-intelligence-and-deep-learning-monitoring-project
    ```
 
 2. Ana Python dosyasını çalıştırarak müzik üretim sürecini başlatın:
@@ -83,6 +83,13 @@ Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 ## 📜 Lisans
 
 Bu proje, açık kaynak lisansı altında yayımlanmıştır. Daha fazla bilgi için lütfen `LICENSE.txt` dosyasını inceleyin.
+
+---
+
+## ⚠️ UYARI ⚠️
+
+Yapay zeka modelimizi lütfen etik ve legal amaçlara hizmet edicek şekilde kullanın programlayın !
+Yapay zeka modeli sunucularda barındığından kaynaklı sizin bilgisayarınızda çalıştığı andan kapandığı ana kadar tüm işlemleri kayıt eder !
 
 ---
 
@@ -113,3 +120,4 @@ Herhangi bir sorunuz veya katkı sağlamak isterseniz, GitHub üzerinden bir kon
 ---
 
 "Yapay Zeka ile Beste ve Derin Öğrenim" projesine katkı sağladığınız için teşekkür ederiz. 🎶
+
